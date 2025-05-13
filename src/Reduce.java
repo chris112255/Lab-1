@@ -13,7 +13,6 @@ public class Reduce {
                 start -= 1;
             }
             steps += 1;
-            System.out.println(start);
         }
 
         System.out.println(steps);
